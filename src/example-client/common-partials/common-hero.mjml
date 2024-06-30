@@ -1,0 +1,6 @@
+<mj-section background-url="http://1.bp.blogspot.com/-TPrfhxbYpDY/Uh3Refzk02I/AAAAAAAALw8/5sUJ0UUGYuw/s1600/New+York+in+The+1960's+-+70's+(2).jpg" background-size="cover" background-repeat="no-repeat">
+  <mj-column width="600px">
+    <mj-text align="center" color="#fff" font-size="40px" font-family="Helvetica Neue">common hero</mj-text>
+    <mj-button background-color="#F63A4D" href="#">Promotion</mj-button>
+  </mj-column>
+</mj-section>

@@ -1,0 +1,28 @@
+{
+  "name": "orchard-edm-mjml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gergshultz Romario",
+  "license": "ISC",
+  "dependencies": {
+    "capture-website": "^4.1.0",
+    "del": "^7.1.0",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-zip": "^5.1.0",
+    "live-server": "^1.2.2",
+    "lodash": "^4.17.21",
+    "mjml": "^4.15.3",
+    "open": "^10.0.4",
+    "through2": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-hb": "^8.0.0"
+  }
+}
